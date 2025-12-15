@@ -36,7 +36,7 @@ export default function Home() {
           onClick={() => setStarted(true)}
           sx={{ fontSize: '1.2rem', px: 6, py: 1.5 }}
         >
-          Draft Your Ceremony
+          Create a Ceremony Text
         </Button>
       </Box>
     );
